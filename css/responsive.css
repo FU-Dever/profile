@@ -97,8 +97,9 @@
         font-size: 12px;
         line-height: 20px;
     }
-    .strong-title{
+    .strong-title {
         font-size: 38px;
+        line-height: 40px;
     }
     #home-btn-github{
         margin-left: 0px;
